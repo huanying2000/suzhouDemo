@@ -1,0 +1,9 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'MJExtensionDemo' do
+
+pod 'MJExtension'
+pod 'CYLTabBarController', '~>1.17.4'
+
+end
